@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Dara",
+    "meaning": "Star",
+    "gender": "male",
+    "day": "Monday"
+  },
+  {
+    "name": "Bopha",
+    "meaning": "Flower",
+    "gender": "female",
+    "day": "Tuesday"
+  },
+  {
+    "name": "Sokha",
+    "meaning": "Peaceful",
+    "gender": "unisex",
+    "day": "Wednesday"
+  },
+  {
+    "name": "Vireak",
+    "meaning": "Excellence",
+    "gender": "male",
+    "day": "Thursday"
+  },
+  {
+    "name": "Sophea",
+    "meaning": "Wisdom",
+    "gender": "unisex",
+    "day": "Friday"
+  },
+  {
+    "name": "Nary",
+    "meaning": "Woman/Girl",
+    "gender": "female",
+    "day": "Saturday"
+  },
+  {
+    "name": "Rithy",
+    "meaning": "Power",
+    "gender": "male",
+    "day": "Sunday"
+  },
+  {
+    "name": "Chann",
+    "meaning": "Moon",
+    "gender": "unisex",
+    "day": "Monday"
+  },
+  {
+    "name": "Kalyan",
+    "meaning": "Beautiful",
+    "gender": "female",
+    "day": "Tuesday"
+  },
+  {
+    "name": "Sovann",
+    "meaning": "Gold",
+    "gender": "unisex",
+    "day": "Wednesday"
+  },
+  {
+    "name": "Arun",
+    "meaning": "Morning Sun",
+    "gender": "male",
+    "day": "Thursday"
+  },
+  {
+    "name": "Malis",
+    "meaning": "Jasmine",
+    "gender": "female",
+    "day": "Friday"
+  },
+  {
+    "name": "Kesor",
+    "meaning": "Pollen (of a flower)",
+    "gender": "female",
+    "day": "Saturday"
+  },
+  {
+    "name": "Veasna",
+    "meaning": "Destiny/Luck",
+    "gender": "male",
+    "day": "Sunday"
+  }
+]
